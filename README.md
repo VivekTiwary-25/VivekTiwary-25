@@ -6,6 +6,12 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img alt="Projects" src="assets/divider-light.svg" width="100%">
+</picture>
+
 <a href="https://github.com/VivekTiwary-25/Itantra">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/itantra-dark.svg">
